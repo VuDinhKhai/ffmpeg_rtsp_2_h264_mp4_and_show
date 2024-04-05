@@ -1,0 +1,12 @@
+﻿  main.c
+D:\C++\ffmpeg_c++\ffmpeg_beginer\main.c(186,22): warning C4098: 'h264tomp4': 'void' function returning a value
+D:\C++\ffmpeg_c++\ffmpeg_beginer\main.c(450,38): warning C4098: 'getRtsp2h264': 'void' function returning a value
+D:\C++\ffmpeg_c++\ffmpeg_beginer\main.c(281,1): warning C4090: 'initializing': different 'const' qualifiers
+D:\C++\ffmpeg_c++\ffmpeg_beginer\main.c(571,1): warning C4090: 'initializing': different 'const' qualifiers
+D:\C++\ffmpeg_c++\ffmpeg_beginer\main.c(837,186): warning C4020: 'SDL_UpdateYUVTexture': too many actual parameters
+D:\C++\ffmpeg_c++\ffmpeg_beginer\main.c(737,1): warning C4090: 'initializing': different 'const' qualifiers
+D:\C++\ffmpeg_c++\ffmpeg_beginer\main.c(1109,38): warning C4098: 'getRtsp2yuv_save': 'void' function returning a value
+D:\C++\ffmpeg_c++\ffmpeg_beginer\main.c(1125,187): warning C4020: 'SDL_UpdateYUVTexture': too many actual parameters
+D:\C++\ffmpeg_c++\ffmpeg_beginer\main.c(905,1): warning C4090: 'initializing': different 'const' qualifiers
+D:\C++\ffmpeg_c++\ffmpeg_beginer\main.c(1202,12): warning C4026: function declared with formal parameter list
+  ffmpeg_beginer.vcxproj -> D:\C++\ffmpeg_c++\ffmpeg_beginer\bin\ffmpeg_beginer.exe

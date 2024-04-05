@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?><DEFECTS><DEFECT>
+    <SFA>
+      <FILEPATH>D:\C++\ffmpeg_c++\ffmpeg_beginer\</FILEPATH>
+      <FILENAME>main.c</FILENAME>
+      <LINE>53</LINE>
+      <COLUMN>35</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Arithmetic overflow: Using operator '*' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '*' to avoid overflow (io.2).</DESCRIPTION>
+    <FUNCTION>saveFrame</FUNCTION>
+    <DECORATED>saveFrame</DECORATED>
+    <FUNCLINE>37</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>D:\C++\ffmpeg_c++\ffmpeg_beginer\</FILEPATH>
+      <FILENAME>main.c</FILENAME>
+      <LINE>53</LINE>
+      <COLUMN>67</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Arithmetic overflow: Using operator '*' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '*' to avoid overflow (io.2).</DESCRIPTION>
+    <FUNCTION>saveFrame</FUNCTION>
+    <DECORATED>saveFrame</DECORATED>
+    <FUNCLINE>37</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT></DEFECTS>
